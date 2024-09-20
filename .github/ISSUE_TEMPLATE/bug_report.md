@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 
 ---
-## Describe the bug 
+## Describe the bug
 -
 
 ## To Reproduce
@@ -22,4 +22,4 @@ assignees: ''
 -
 
 ## Possible solution
-- 
+-
