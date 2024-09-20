@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 ## Background
-- 
-- 
+-
+-
 
 ## Todo
 - [ ] Todo 1
